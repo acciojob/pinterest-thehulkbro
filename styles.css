@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
 .hero{
-	display: ;
-	justify-content: fixed ;
-	align-items: ;
+	display: flex ;
+	justify-content:  center;
+	align-items: center ;
 }
 .img{
 	width:430px ;
@@ -10,11 +10,9 @@
 	object-fit: cover;
 }
 .bu{
-padding:20px;
-background-color: green;
-color: white
-border-radius: 10px;
-
-
+	padding:10px;
+	background-color: indianred;
+	color: white;
+	border-radius: 10px;
 	
 }
